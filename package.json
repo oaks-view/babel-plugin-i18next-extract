@@ -34,7 +34,7 @@
     "lib"
   ],
   "dependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "^7.6.0",
     "i18next": "^17.0.4",
     "json-stable-stringify": "^1.0.1"
   },
